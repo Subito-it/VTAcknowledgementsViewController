@@ -18,8 +18,8 @@
   },
   "source_files": "Classes/*.{h,m}",
   "public_header_files": [
-    "Classes/VTAcknowledgementsViewController.{h,m}",
-    "Classes/VTAcknowledgement.{h,m}"
+    "Classes/VTAcknowledgementsViewController.{h}",
+    "Classes/VTAcknowledgement.{h}"
   ],
   "resources": "VTAcknowledgementsViewController.bundle",
   "requires_arc": true,
